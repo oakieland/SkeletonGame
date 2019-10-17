@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/SkeletonGame/Scenes/TestRoom.unity
+    guid: d1c3109bdb54ad54c8a2b2838528e640
+  - enabled: 0
+    path: Assets/__DELETED_GUID_Trash/4ad9c56c944db1448b46c87b29c0e6a3
+    guid: 4ad9c56c944db1448b46c87b29c0e6a3
+  - enabled: 1
+    path: Assets/SkeletonGame/Scenes/GameOver.unity
+    guid: 12e9b0c12d5dec74a80bbb0fe054374f
+  - enabled: 1
+    path: Assets/SkeletonGame/Scenes/MainMenu.unity
+    guid: ebb4b22962f314a47b872410e365b9dc
+  - enabled: 1
+    path: Assets/SkeletonGame/Scenes/TestRoom2.unity
+    guid: b4de1d6a3fae2f0468ce8c419c90bc48
+  m_configObjects: {}
